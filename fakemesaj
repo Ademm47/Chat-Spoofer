@@ -15,7 +15,7 @@ local UI =
 local Page =
     UI.New(
         {
-            Title = "Main"
+            Title = "Ana"
         }
     )
 
